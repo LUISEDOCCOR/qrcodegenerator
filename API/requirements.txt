@@ -1,4 +1,4 @@
 qrcode
 Flask
 pillow
-
+flask_corss
